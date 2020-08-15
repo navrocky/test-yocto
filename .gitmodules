@@ -10,3 +10,7 @@
 	path = layers/meta-raspberrypi
 	url = git://git.yoctoproject.org/meta-raspberrypi
 	branch = dunfell
+[submodule "layers/meta-qt5"]
+	path = layers/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+	branch = dunfell
